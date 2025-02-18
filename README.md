@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **abelm19/abelm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
