@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abel Metek</h1>
-<h3 align="center">A passionate Data Scienctist from China</h3>
+<h3 align="center">A Kneen Data Scientist/ML Engineer based from Seattle, Washington</h3>
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **Docker, Model Deployments**
 
 - 💬 Ask me about **ML algortithms**
 
