@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 I'm a Data Science/ML Engineer specializing in Python, Machine Learning algorithms and libraries, Deep learning, Java also expereinced JavaScript, C++.
 
 ### My Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description.
-- [Project 2](https://github.com/yourusername/project2): Another brief description.
+- [Project 1]([https://github.com/yourusername/project1](https://github.com/abelm19/Calorie_Predictor)): End to End Calorie Burnt Regression Project(Developed a high-performance Random Forest Regressor (R²: 0.92) to accurately predict calories burned, utilizing Pandas, NumPy, and Scikit-learn for efficient data preprocessing, exploratory data analysis (EDA), and hyperparameter tuning.)
+
+- [Project 2]([https://github.com/yourusername/project2](https://github.com/abelm19/Customer_Churn_Project)): End to End Customer Churn Classification Project(Developed a robust Random Forest Classifier to predict customer churn, leveraging Pandas, NumPy, and Scikit-learn for efficient data preprocessing, exploratory data analysis (EDA), and hyperparameter optimization.)
+
+- [Project 3(Internship Project)](https://github.com/abelm19/Data-Science-Intern-Code/tree/main): End to End Annual Average Temprature Anomaly Prediction(	Utilized Python for end-to-end data preprocessing, statistical analysis, and data visualization, driving actionable insights that led to achieving 99% accuracy in a capstone project for predicting average annual temperature anomalies with Random Forest Regression.)
   
-- 🌱 I’m currently learning **Docker, Model Deployments**
+- 🌱 I’m currently learning **NLP & LLM**
 
 - 💬 Ask me about **ML algortithms**
 
