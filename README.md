@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Abel Metek 👋
 
-I'm a Data Science/ML Engineer specializing in Python, Machine Learning algorithms and libraries, Deep learning, Java also expereinced JavaScript, C++.
+Aspiring AI Engineer with expertise in Python, Machine Learning, Deep Learning, and NLP, building optimized and scalable AI solutions for diverse industries.
 
 ### My Projects
 - [Project 1]([https://github.com/yourusername/project1](https://github.com/abelm19/Calorie_Predictor)): End to End Calorie Burnt Regression Project(Developed a high-performance Random Forest Regressor (R²: 0.92) to accurately predict calories burned, utilizing Pandas, NumPy, and Scikit-learn for efficient data preprocessing, exploratory data analysis (EDA), and hyperparameter tuning.)
